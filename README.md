@@ -10,4 +10,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## Challenge Solved😃.
 
-Find Live Demo Here :
+Find Live Demo Here : https://web-dev-pasta.github.io/3-column-preview-card-component/
